@@ -1,0 +1,101 @@
+Gender,NetWorth_Billions,Name,DateOfBirth,CountryOfCitizenship,BusinessCategory,WealthAcquisition,PrimaryInvestment,Education,MaritalStatus,PhilanthropyFocus,CompaniesOwned
+Male,108.35,John Cook,1971-02-02,United States,Finance,Inherited,Private Equity,PhD,Married,Education,9
+Male,6.06,Douglas Stone,1957-04-14,United States,Retail,Inherited,Cryptocurrency,Bachelor's,Widowed,Poverty,3
+Male,116.62,Christian Turner,1953-06-14,India,Technology,Inherited,Real Estate,Master's,Divorced,Poverty,2
+Female,4.53,Erica Cochran,1955-10-02,United States,Media,Mixed,Stocks,Bachelor's,Single,Education,8
+Female,78.12,Erin Guerrero PhD,1978-08-15,Germany,Media,Inherited,Bonds,Bachelor's,Married,Climate,9
+Male,12.19,Jose Andrade,1959-02-18,Japan,Media,Mixed,Startups,High School,Widowed,Arts,5
+Female,43.18,Joyce Watson,1960-08-17,Russia,Manufacturing,Mixed,Stocks,High School,Single,Arts,5
+Male,23.79,John Wilson,1952-04-06,Brazil,Real Estate,Mixed,Startups,High School,Married,Climate,9
+Female,50.81,Kelly White,1952-04-15,Russia,Energy,Mixed,Bonds,Master's,Married,Technology,4
+Male,8.8,Richard Campos,1960-02-14,Canada,Manufacturing,Self-made,Stocks,High School,Widowed,Climate,2
+Female,64.98,Shelley Gates,1969-01-14,Russia,Retail,Self-made,Private Equity,Bachelor's,Divorced,Technology,10
+Male,65.31,James Moss,1947-08-01,Russia,Retail,Self-made,Startups,PhD,Married,Education,6
+Female,102.61,Jenna Foster,1947-12-24,United States,Energy,Mixed,Startups,Bachelor's,Divorced,Climate,9
+Female,70.86,Jane Bishop,1959-02-09,Germany,Manufacturing,Self-made,Bonds,PhD,Widowed,Poverty,9
+Male,102.98,Arthur Walker,1940-04-10,Russia,Technology,Self-made,Startups,Master's,Married,Arts,9
+Male,111.48,Walter Cross,1989-09-20,Russia,Manufacturing,Mixed,Real Estate,Master's,Married,Education,2
+Male,31.33,Samuel Brown,1942-11-01,Canada,Real Estate,Mixed,Private Equity,Bachelor's,Divorced,Poverty,6
+Female,77.93,Joanna Randall,1985-07-16,Canada,Technology,Mixed,Real Estate,PhD,Single,Poverty,6
+Male,99.16,Austin Warner,1963-04-12,Canada,Manufacturing,Inherited,Stocks,PhD,Divorced,Technology,7
+Female,62.08,Debbie Davis,1942-01-26,Australia,Manufacturing,Inherited,Cryptocurrency,Bachelor's,Single,Technology,7
+Male,23.72,David Cross,1958-05-10,India,Energy,Inherited,Stocks,Master's,Divorced,Poverty,1
+Female,20.61,Regina Richardson,1982-06-13,China,Energy,Inherited,Bonds,High School,Single,Healthcare,10
+Male,32.83,Andrew Valdez,1942-12-11,Japan,Media,Mixed,Real Estate,High School,Widowed,Climate,7
+Male,55.14,Dr. Jordan Bowman,1986-10-08,Brazil,Real Estate,Mixed,Startups,Master's,Divorced,Education,7
+Male,75.22,Jonathan Jackson,1960-04-05,India,Retail,Mixed,Bonds,High School,Widowed,Poverty,5
+Female,11.34,Meagan Merritt,1955-10-04,Brazil,Real Estate,Mixed,Startups,Bachelor's,Divorced,Poverty,1
+Female,8.25,Cindy Flores,1946-03-04,China,Manufacturing,Mixed,Private Equity,PhD,Single,Healthcare,5
+Male,97.7,Michael Allen,1956-08-20,Russia,Real Estate,Self-made,Private Equity,High School,Married,Healthcare,10
+Female,36.89,Angela Watkins,1945-10-01,Brazil,Media,Inherited,Real Estate,PhD,Married,Poverty,2
+Male,78.76,Dalton Hughes,1984-02-14,China,Healthcare,Inherited,Real Estate,Master's,Single,Poverty,5
+Male,22.98,Colton Rice,1988-01-13,Russia,Finance,Self-made,Stocks,High School,Widowed,Healthcare,2
+Female,17.97,Heidi Johnson,1939-12-28,India,Real Estate,Inherited,Startups,High School,Single,Arts,10
+Female,118.6,Diana Perez,1971-09-14,Australia,Healthcare,Self-made,Cryptocurrency,High School,Widowed,Healthcare,5
+Male,6.12,Matthew Martin,1982-01-13,Australia,Media,Inherited,Bonds,PhD,Widowed,Climate,7
+Female,66.12,Kristin Rich,1957-04-28,Australia,Real Estate,Mixed,Real Estate,Bachelor's,Divorced,Arts,7
+Male,39.07,Steven Clark,1972-04-08,Australia,Media,Mixed,Startups,Bachelor's,Divorced,Technology,6
+Female,53.71,Leslie Lopez,1984-12-04,Australia,Retail,Self-made,Bonds,High School,Single,Technology,5
+Male,63.41,Nicholas Peterson,1951-05-26,Russia,Real Estate,Self-made,Cryptocurrency,PhD,Divorced,Climate,9
+Female,46.03,Ashley Johnson,1983-01-03,France,Media,Self-made,Cryptocurrency,Master's,Married,Technology,3
+Male,44.07,Jonathan Welch,1977-03-07,Brazil,Technology,Mixed,Private Equity,High School,Divorced,Climate,10
+Male,91.57,David Holmes,1946-11-14,India,Technology,Inherited,Startups,PhD,Widowed,Arts,10
+Male,27.77,Michael Hall,1967-02-02,Germany,Retail,Mixed,Bonds,PhD,Single,Education,6
+Female,31.99,Jessica Erickson,1989-03-11,Australia,Retail,Mixed,Stocks,High School,Single,Education,5
+Male,56.5,Larry Kennedy,1969-06-28,Brazil,Healthcare,Self-made,Cryptocurrency,High School,Widowed,Poverty,8
+Female,94.51,Sara Henson,1980-11-15,Australia,Retail,Self-made,Cryptocurrency,High School,Married,Healthcare,1
+Female,4.86,Alisha Rose,1943-02-10,Germany,Technology,Self-made,Private Equity,Bachelor's,Divorced,Education,5
+Female,2.57,Courtney Rice,1960-05-31,Japan,Retail,Inherited,Private Equity,High School,Single,Healthcare,8
+Female,38.82,Elizabeth Turner,1972-03-01,United States,Real Estate,Mixed,Cryptocurrency,High School,Divorced,Healthcare,2
+Male,30.33,Brian Burke,1959-10-14,Germany,Manufacturing,Self-made,Private Equity,PhD,Widowed,Education,3
+Male,65.49,Luis Lucas,1954-08-21,Australia,Technology,Inherited,Cryptocurrency,Bachelor's,Widowed,Poverty,4
+Female,60.69,Hannah Juarez,1945-10-28,India,Finance,Self-made,Cryptocurrency,PhD,Single,Technology,3
+Male,119.33,Russell Obrien,1987-05-21,Brazil,Finance,Inherited,Startups,Bachelor's,Single,Healthcare,10
+Male,36.09,Joseph Tucker,1949-08-05,India,Technology,Inherited,Real Estate,Master's,Single,Arts,2
+Female,98.77,Dana Arnold,1973-11-08,France,Finance,Self-made,Real Estate,High School,Single,Poverty,10
+Female,113.29,Jennifer Lee,1964-02-08,United States,Energy,Inherited,Private Equity,High School,Married,Education,1
+Female,80.6,Maria Tapia,1977-07-04,Russia,Finance,Mixed,Bonds,High School,Widowed,Climate,6
+Male,54.05,Richard Ramsey,1947-12-30,United States,Retail,Self-made,Startups,PhD,Widowed,Technology,5
+Female,37.45,Emily Cook,1956-10-15,Russia,Finance,Inherited,Stocks,Bachelor's,Married,Arts,4
+Female,75.04,Paula Martinez,1948-07-04,Russia,Technology,Mixed,Real Estate,Master's,Single,Arts,9
+Female,9.29,Shelby Taylor,1975-02-01,United States,Real Estate,Mixed,Cryptocurrency,High School,Married,Poverty,10
+Male,75.86,Devin Young,1977-04-04,Japan,Media,Inherited,Stocks,PhD,Single,Technology,2
+Male,75.27,Darren Fowler,1943-12-30,Japan,Real Estate,Inherited,Startups,High School,Widowed,Arts,2
+Female,24.19,Tammy Hogan,1970-06-13,Russia,Retail,Self-made,Cryptocurrency,High School,Single,Poverty,5
+Female,57.04,Lisa Lambert,1958-05-04,France,Healthcare,Self-made,Bonds,Master's,Divorced,Technology,9
+Male,114.13,Luke Clark,1955-07-19,Germany,Finance,Mixed,Stocks,Bachelor's,Single,Healthcare,5
+Female,104.78,Darlene Wagner,1957-01-29,Japan,Real Estate,Inherited,Bonds,Master's,Single,Arts,4
+Female,18.19,Taylor Turner,1945-10-09,Germany,Retail,Inherited,Bonds,High School,Divorced,Healthcare,6
+Male,70.77,Thomas Sullivan,1973-04-16,India,Energy,Inherited,Real Estate,High School,Married,Arts,2
+Female,95.91,Mary Mendez,1949-02-21,India,Technology,Mixed,Real Estate,Master's,Single,Climate,3
+Female,27.93,Christine Rodriguez,1949-04-23,France,Technology,Self-made,Stocks,High School,Widowed,Arts,1
+Female,24.74,Carmen Willis,1959-01-11,France,Media,Mixed,Cryptocurrency,PhD,Married,Education,10
+Female,25.04,Misty Wise,1970-08-19,Brazil,Manufacturing,Mixed,Cryptocurrency,Bachelor's,Divorced,Arts,8
+Female,6.39,Melinda Butler,1950-04-18,France,Technology,Inherited,Real Estate,Master's,Married,Healthcare,4
+Female,48.21,Margaret Goodwin,1968-05-01,China,Energy,Self-made,Real Estate,Master's,Single,Technology,5
+Male,90.95,John Berry,1968-11-19,United States,Healthcare,Inherited,Startups,High School,Married,Arts,3
+Male,112.2,Manuel Turner,1960-11-11,Canada,Energy,Mixed,Real Estate,High School,Married,Education,1
+Female,61.98,Lisa Walls,1961-05-17,India,Retail,Mixed,Private Equity,Master's,Divorced,Education,6
+Male,51.77,Benjamin Murphy,1978-12-22,Japan,Energy,Self-made,Cryptocurrency,High School,Divorced,Education,5
+Male,54.39,Sean Brown,1978-07-28,Germany,Manufacturing,Inherited,Stocks,High School,Married,Healthcare,7
+Male,55.61,Robert Sanchez,1976-09-13,Australia,Technology,Self-made,Startups,Bachelor's,Divorced,Poverty,8
+Male,63.61,John Cooper,1986-08-03,Japan,Healthcare,Inherited,Private Equity,High School,Single,Arts,1
+Female,86.65,Jessica Hernandez,1988-05-30,Brazil,Manufacturing,Mixed,Cryptocurrency,High School,Divorced,Technology,4
+Female,25.01,Amber Reid,1981-10-21,India,Manufacturing,Inherited,Stocks,Master's,Single,Healthcare,7
+Female,78.42,Michelle Harmon,1965-02-28,Russia,Media,Self-made,Startups,PhD,Widowed,Arts,3
+Female,3.3,Allison Cervantes,1948-04-28,Australia,Media,Inherited,Stocks,High School,Widowed,Education,2
+Female,3.79,Stephanie Wheeler,1952-11-06,China,Healthcare,Self-made,Private Equity,Master's,Widowed,Technology,2
+Female,43.23,Leslie Gilmore,1963-03-15,Germany,Healthcare,Inherited,Bonds,Bachelor's,Single,Healthcare,6
+Male,58.05,Samuel Valdez,1973-12-23,China,Real Estate,Mixed,Stocks,Bachelor's,Married,Education,8
+Male,14.18,Nicholas Shaw,1942-07-17,Germany,Technology,Self-made,Startups,Bachelor's,Divorced,Arts,10
+Female,83.4,Melanie Davis,1939-08-30,Russia,Technology,Self-made,Private Equity,High School,Single,Arts,7
+Female,76.94,Amy Irwin,1951-09-07,France,Finance,Inherited,Stocks,PhD,Divorced,Healthcare,5
+Female,46.76,Paula James,1972-02-15,Australia,Finance,Mixed,Private Equity,Master's,Widowed,Education,2
+Female,77.35,Sandra George,1975-03-17,France,Technology,Self-made,Real Estate,High School,Widowed,Technology,2
+Female,90.86,Sheryl Reed,1941-09-18,France,Finance,Self-made,Startups,PhD,Divorced,Poverty,3
+Male,4.04,Christopher Castaneda,1984-02-12,Brazil,Real Estate,Inherited,Stocks,High School,Single,Technology,7
+Female,106.41,Mrs. Linda Crawford DDS,1948-12-18,Russia,Real Estate,Mixed,Private Equity,PhD,Single,Climate,6
+Female,12.31,Janice Aguirre,1970-11-08,Canada,Retail,Inherited,Startups,Master's,Widowed,Education,5
+Female,91.47,Amy Bryant,1963-06-23,Japan,Energy,Self-made,Startups,PhD,Divorced,Climate,4
+Male,49.33,Eric Gutierrez DVM,1963-09-21,Germany,Healthcare,Mixed,Cryptocurrency,High School,Widowed,Climate,1
+Female,107.49,Jordan Watkins,1957-04-10,Germany,Manufacturing,Inherited,Real Estate,Bachelor's,Single,Poverty,1
